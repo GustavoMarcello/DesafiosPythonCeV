@@ -1,5 +1,5 @@
 """
-EXERCÍCIO D26 - Extrator de Primeiro e Último Nome
+EXERCÍCIO D27 - Extrator de Primeiro e Último Nome
 Crie um programa que:
 1. Peça ao usuário para digitar seu nome completo
 2. Limpe espaços em branco

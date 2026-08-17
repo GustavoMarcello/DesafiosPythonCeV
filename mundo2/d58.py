@@ -1,5 +1,5 @@
 """
-EXERCÍCIO D28 - Jogo de Advinhação v2.0
+EXERCÍCIO D58 - Jogo de Advinhação v2.0
 Crie um programa que:
 1. Importe o módulo random
 2. Gere um número aleatório entre 0 e 10 usando random.randint()

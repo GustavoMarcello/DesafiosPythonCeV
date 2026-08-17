@@ -8,5 +8,4 @@ Crie um programa que:
     - Em até 2x no cartão: preço normal
     - 3x ou mais no cartão: 20% de juros
 3. Calcule e exiba o valor final a ser pago de acordo com a opção escolhida
-
 """

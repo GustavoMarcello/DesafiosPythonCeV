@@ -1,5 +1,5 @@
 """
-EXERCÍCIO D35 - Analizador de triangulos
+EXERCÍCIO D42 - Analizador de triangulos
 Crie um programa que:
 1. Leia o comprimento de três segmentos de reta
 2. Exiba se eles podem formar um triângulo
