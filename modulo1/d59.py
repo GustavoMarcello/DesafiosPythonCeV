@@ -1,5 +1,5 @@
 """
-EXERCÍCIO D59 (Melhorado) - Calculadoar
+EXERCÍCIO D59 (Melhorado) - Calculadora Completa
 Crie um programa que:
 1. Mostre um menu de opções:
     - [1] Somar
