@@ -6,4 +6,16 @@ Crie um programa que:
 3. Converta o ângulo para radianos usando math.radians()
 4. Calcule o seno (math.sin), cosseno (math.cos) e tangente (math.tan)
 5. Exiba os valores com 2 casas decimais
+
+obs*: converta o ângulo para radiandos
 """
+
+import math
+
+angulo = float(input('Digite um valor de ângulo: '))
+
+rad = math.radians(angulo)
+
+print(f'sen de {angulo}: {math.sin(rad):.2f}')
+print(f'cos de {angulo}: {math.cos(rad):.2f}')
+print(f'tan de {angulo}: {math.tan(rad):.2f}')
