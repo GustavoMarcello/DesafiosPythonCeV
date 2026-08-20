@@ -6,5 +6,15 @@ Crie um programa que:
 3. Peça ao usuário para digitar um número nesse mesmo intervalo
 4. Verifique se o usuário acertou:
    - Se acertou: exiba "Parabéns! Você acertou!"
-   - Se errou: exiba qual foi o número sorteado
+   - Se errou: exiba "Você errou."
 """
+
+from random import randint
+
+n = int(input('Digite um número entre 0 e 5: '))
+sorteado = randint(0, 5)
+print(f'Número sorteado "{sorteado}"')
+if sorteado == n:
+    print('Parabéns! Você acertou!')
+else:
+    print('Você errou.')
