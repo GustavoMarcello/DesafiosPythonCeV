@@ -8,10 +8,3 @@ Crie um programa que:
    - Dígito na posição 1 = centena
    - Dígito na posição 0 = milhar
 """
-
-num = input('Digite um número de 4 unidades: ')
-
-print(f'Unidade: {num[3]}')
-print(f'Dezena: {num[2]}')
-print(f'Centena: {num[1]}')
-print(f'Milhar: {num[0]}')
