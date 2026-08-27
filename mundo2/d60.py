@@ -5,4 +5,5 @@ Crie um programa que:
 2. Calcule seu fatorial
 
 Ex: 4! = 4 * 3 * 2 * 1 = 24
+Obs*: Use while
 """
