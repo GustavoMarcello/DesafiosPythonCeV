@@ -5,5 +5,5 @@ Crie um programa que:
 2. Calcule o número mínimo de cédulas necessárias para o saque
 3. Exiba a quantidade de cada tipo de cédula
 
-Obs: Considere que o caixa possui cédulas de R$100, R$50, R$20, R$10, R$5 e R$1.
+Obs: Considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 """
