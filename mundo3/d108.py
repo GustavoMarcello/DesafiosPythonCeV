@@ -1,6 +1,6 @@
 """
 EXERCÍCIO D108 - Formatando moedas em Python
 Crie um programa que:
-1. Consuma o módulo moeda.py criado por você
-2. Use as funções desse módulo para formatar valores monetários
+1. Crie uma função adicional no modulo 'moeda' chamada moeda()
+2. Essa função deverá formatar valores monetários em R$ com dois digitos após a vírgula
 """
