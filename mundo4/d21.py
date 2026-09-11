@@ -7,11 +7,11 @@ Crie um programa que:
     - Escreva um texto passado pelo usuário
     - O texto deverá estar na cor escolhida pelo usuário
 *Cod das cores:
-    \033[31mVermelho[m
-    \033[32mVerde[m
-    \033[33mAmarelo[m
-    \033[34mAzul[m
-    \033[35mRoxo[m
-    \033[36mCiano[m
-    \033[37mBranco[m
+    \033[31mVermelho\033[m
+    \033[32mVerde\033[m
+    \033[33mAmarelo\033[m
+    \033[34mAzul\033[m
+    \033[35mRoxo\033[m
+    \033[36mCiano[\033m
+    \033[37mBranco\033[m
 """

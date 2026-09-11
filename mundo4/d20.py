@@ -7,6 +7,5 @@ Crie um programa que:
     - jogosFavoritos
 2. Crie os métodos:
     - addFavorito() para adicionar um jogo na lista de favoritos
-    - removerFavorito() para remover um jogo na lista de favoritos
-    - ficha() que demonstra todos os atributos com jogos em ordem alfabética
+    - fichaGamer() que demonstra todos os atributos com jogos em ordem alfabética
 """
