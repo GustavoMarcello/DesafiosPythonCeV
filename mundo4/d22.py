@@ -1,8 +1,8 @@
 """
 EXERCÍCIO D22 - Classe ControleRemoto
 Crie um programa que:
-1. Contenha a classe ControleRemoto contendo atributos:
-    - canal
+1. Contenha a classe ControleRemoto contendo entre os demais atributos:
+    - canalAtual
     - volumeTotal
     - tvLigada
 2. Crie o métodos para:
