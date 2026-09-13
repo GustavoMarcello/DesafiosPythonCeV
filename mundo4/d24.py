@@ -3,11 +3,12 @@
 
 EXERCÍCIO D24 - Hernça cafeteria
 Crie um programa que:
-1. Contenha a classe abstrata BebidaQuente contendo:
+1. Contenha a classe abstrata Bebidas contendo:
     - tamanho [P, M, G]
     - quente [True, False]
-    - preparar()
-    - ferverAgua()
+    - preparar() abstrato
+    - ferverAgua() abstrato
+    - adicionarGelo() abstrato
     - misturar() abstrato
     - servir() abstrato
 2. Crie classes filhas:
