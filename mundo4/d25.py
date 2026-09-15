@@ -5,7 +5,7 @@ EXERCÍCIO D25 - Hernça Transportadora
 Crie um programa que:
 1. Contenha a classe abstrata Transporte contendo:
     - distância
-    - frete
+    - valorFrete
     - calcFrete()
 2. Crie classes filhas:
     - Moto 
