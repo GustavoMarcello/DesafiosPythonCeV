@@ -7,10 +7,10 @@ Crie um programa que:
     - nome
     - vida
     - golpes
-    - atacar(alvo, forca)
+    - escolherAtaque() - retorna lista de opções de ataque
     - receberDano(dano)
-    - curar()
+    - usarPocao()
 2. Crie classes filhas:
-    - Guerreiro 
-    - Mago
+    - Guerreiro - ['Atacar com arma', 'Arremeçar adaga']
+    - Mago - ataques ['Magic missles', 'fireball']
 """
