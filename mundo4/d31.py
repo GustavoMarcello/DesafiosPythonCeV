@@ -3,16 +3,16 @@
 
 EXERCÍCIO D31 - properties de retangulo
 Crie um programa que:
-1. Contenha a classe abstrata Retangulo contendo:
+1. Contenha a classe Retangulo contendo:
     - _base
     - _altura
     - _area
     - _perimetro
-    - base: property
-    - altura: property
-    - medidas: property
+    - base: property getter / setter
+    - altura: property getter / setter
     - area: property
     - perimetro: property
+    - medidas()
 
 Obs* valide as propriedades para que não sejam aceitos valores negativos ou zero.
 """
