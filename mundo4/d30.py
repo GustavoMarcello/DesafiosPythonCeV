@@ -6,5 +6,6 @@ Crie um programa que:
 1. Contenha a classe abstrata Credencial contendo:
     - senha
     - __hash
-    - validar(chave)
+    - validarSenha(senha)
+    - alterarSenha(novaSenha)
 """

@@ -6,13 +6,12 @@ Crie um programa que:
 1. Contenha a classe abstrata ContaBancaria contendo:
     - _id
     - _titular
-    - __saldo
-    - __hash
+    - __saldoInicial
+    - __senha (criptografada)
     - depositar(valor, chave) (deposita o valor na conta pedindo a senha)
     - sacar(valor, chave) (saca o valor na conta pedindo a senha)
     - saldo - property get (visualizar o saldo pedindo a senha)
     - titular - property get (altera o titular pedindo a senha)
-    - validarSenha(chave)
+    - validarSenha(senha)
     - pedirSenha() (automático quando ao estanciar o objeto sem passar o __hash)
-        - ao digitar a senha, deverá aparecer **** em cada caracter digitado
 """

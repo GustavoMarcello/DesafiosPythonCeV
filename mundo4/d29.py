@@ -3,9 +3,9 @@
 
 EXERCÍCIO D29 - Diário
 Crie um programa que:
-1. Contenha a classe abstrata Diário contendo:
+1. Contenha a classe Diário contendo:
     - __segredos[]
     - __senha
-    - ler(senha) - retorna os segredos se a senha estiver correta
-    - escrever(senha, mensagem) - escreve a mensagem se a senha estiver correta
+    - ler() - retorna os segredos se a senha estiver correta
+    - escrever(mensagem) - escreve a mensagem se a senha estiver correta
 """
