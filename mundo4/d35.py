@@ -4,9 +4,9 @@
 EXERCÍCIO D35 - Simulador de abertura de arquivos
 Crie um programa que:
 1. Contenha a classe abstrata Arquivo contendo:
-    - nome
+    - _nome
     - _extensao
-    - tamanho (em bytes)
+    - _tamanho (em Megas)
     - @nomecompleto: property retornando 'nome + extensao + tamanho'
     - abrir() - abstractmethod
 2. Crie as classes PDF e DOC que herdam de Arquivo
